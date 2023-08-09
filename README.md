@@ -4,6 +4,7 @@ this project was a kaggle competition using classification models to predict the
 
 TERMINOLOGIES
 TWF: Tool wear failure. 
+
 HDF: Heat dissipation failure.
 PWF: Power failure. 
 OSF: Overstrain failure. 
