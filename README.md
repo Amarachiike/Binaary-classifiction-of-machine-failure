@@ -7,7 +7,7 @@ TWF: Tool wear failure.
 HDF: Heat dissipation failure.
 PWF: Power failure. 
 OSF: Overstrain failure. 
-RNF: Random failure. 
+RNF: Random failure.
 
 PROCESSES 
 1. Data cleaning:
